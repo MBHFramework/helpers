@@ -1,0 +1,21 @@
+{
+  "name": "mbh-framework/helpers",
+  "license": "MIT",
+  "authors": [{
+    "name": "Ulises Jeremias Cornejo Fandos",
+    "email": "ulisescf.24@gmail.com"
+  }],
+  "description": "Common helpers used by many other classes in a Mbh application",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBHFramework/structures.git"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mbh\\": "Mbh"
+    }
+  },
+  "require": {
+    "php": "^7.0"
+  }
+}
